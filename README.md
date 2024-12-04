@@ -35,7 +35,7 @@ config = {
             "temperature":0.0,
             "max_tokens": 1500,
             "openai_base_url":"https://api.siliconflow.cn/v1/",
-            "api_key":"sk-gxgmcdyfdsxjuubmqsuxrxgnbsilnlxyhnddsljvbcxvivwc"
+            "api_key":""
 
         }
     },
